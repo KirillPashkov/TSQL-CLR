@@ -1,7 +1,7 @@
 # TSQL-CLR.
 My TSQL CLR helper functions.
 
-# To compile DLL use(the DLL will be place to Framework's directory):
+# To compile DLL use(the DLL will be placed to Framework's directory):
 C:\WINDOWS\Microsoft.NET\Framework\v3.5> ./csc.exe /target:library C:\CLR\CLR_PKM.cs
 
 # To add assembly to SQL Server use:
